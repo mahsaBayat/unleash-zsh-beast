@@ -4,7 +4,7 @@
 <img src="./assets/unleash.png" alt="unleash your inner zsh beast" width="45%" />
 </p>
 
-<table align-center>
+<table align="center">
     <thead>
         <tr>
             <th align="left">Tool</th>
