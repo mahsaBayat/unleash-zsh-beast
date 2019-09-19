@@ -2,7 +2,7 @@
 alias gst='git status'
 alias ga='git add .'
 alias gcm='git commit -m $1'
-alias gps='git push origin $1'
+alias gps='git push origin'
 alias gco='git checkout'
 alias gcob='git checkout -b $1'
 alias gpl='git pull origin'
