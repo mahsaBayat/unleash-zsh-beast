@@ -1,7 +1,7 @@
 # Unleash Your Inner ZSH Beast
 
 <p align="center">
-<img src="./assets/unleash.png" alt="unleash your inner zsh beast" width="45%" />
+<img src="./assets/unleash.png" alt="unleash your inner zsh beast" width="30%" />
 </p>
 
 | Tool                           | Link                                             |
