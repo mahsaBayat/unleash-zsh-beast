@@ -11,7 +11,7 @@
 | TheFuck :angry:                | https://github.com/nvbn/thefuck                  |
 | Git-Standup :raising_hand:     | https://github.com/kamranahmedse/git-standup     |
 | Spaceship :rocket:             | https://github.com/denysdovhan/spaceship-prompt  |
-| ZSH Auto Suggestions :ok_hand: | https://github.com/zsh-users/zsh-autosuggestions |
+| ZSH Auto Suggestions :robot: | https://github.com/zsh-users/zsh-autosuggestions |
 | Diff So Fancy :sparkles: | https://github.com/so-fancy/diff-so-fancy |
 | Bat :bat: | https://github.com/sharkdp/bat|
 
