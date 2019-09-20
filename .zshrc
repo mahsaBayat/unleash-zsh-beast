@@ -14,10 +14,6 @@ alias fuck='eval $(thefuck $(fc -ln -1 | tail -n 1)); fc -R'
 alias svim='sudo vim'
 alias whatport='lsof -i:$1'
 
-alias nis='npm install --save'
-alias ys='yarn start'
-alias yt='yarn test'
-
 alias code='code .'
 alias goto='code --goto'
 
