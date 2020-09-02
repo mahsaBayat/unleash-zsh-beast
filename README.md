@@ -1,8 +1,8 @@
 # Unleash Your Inner ZSH Beast
 
 ## Presented at the 2019 DDD conference
-
-<p align="center">
+You can find the slide deck [here.](https://docs.google.com/presentation/d/1GAfJk3Bmp2HwxSl-TfkeuFVIc-vrddOzp_OlLQj6eIk/edit?usp=sharing)
+<p>
 <img src="./assets/unleash.png" alt="unleash your inner zsh beast" width="30%" />
 </p>
 
