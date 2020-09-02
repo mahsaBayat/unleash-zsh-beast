@@ -1,5 +1,7 @@
 # Unleash Your Inner ZSH Beast
 
+## Presented at the 2019 DDD conference
+
 <p align="center">
 <img src="./assets/unleash.png" alt="unleash your inner zsh beast" width="30%" />
 </p>
